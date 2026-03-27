@@ -11,4 +11,4 @@ Mockup 1
 
 Mockup 2
 
-[gambar wadah](wada.png)
+[gambar wadah](wadah.png)
